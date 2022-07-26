@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Table from "./component/Table";
+import Tables from "./component/Table";
 import "./styles.css";
 
 export default function App() {
@@ -17,7 +17,7 @@ export default function App() {
     <div className="App">
       <h1>Table with react-bootstrap sample</h1>
       <h2>Get fake data from https://fakestoreapi.com</h2>
-      <Table data={data} header={["#", "Title", "Category", "Price"]} />
+      <Tables data={data} header={["#", "Title", "Category", "Price"]} />
     </div>
   );
 }
