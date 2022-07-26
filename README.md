@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Komsan74/react-bootstrap-table/blob/main/assets/react-bootstrap-table.PNG" width="600px"/>
 
-# Table.js
+# [Table.js](https://github.com/Komsan74/react-bootstrap-table/blob/main/src/component/Table.js)
 กำหนดแม่แบบตาราง โดยศึกษารูปแบบจาก [react-bootstrap](https://react-bootstrap.github.io/components/table/) 
 แล้วให้รีเทิร์นค่าออกมาตาม props ที่เรากำหนด
 - header = อาร์เรย์ชื่อส่วนหัวตาราง (column header)
