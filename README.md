@@ -12,3 +12,9 @@
 
 # App.js
 - กำหนด {data} ด้วยการดึงข้อมูลจำลองมาจาก https://fakestoreapi.com
+Get all products
+```jsx
+    fetch('https://fakestoreapi.com/products')
+                .then(res=>res.json())
+                .then(json=>console.log(json))
+```
