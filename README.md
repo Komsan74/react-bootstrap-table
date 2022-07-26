@@ -1,6 +1,6 @@
 # table-with-react-bootstrap
 บทฝึกหัดนี้เป็นการสร้างตารางข้อมูล โดยใช้ react-bootstrap เฟรมเวิร์ค
-
+![](https://github.com/Komsan74/react-bootstrap-table/blob/main/assets/react-bootstrap-table.PNG | width=600)
 
 # Table.js
 กำหนดแม่แบบตาราง โดยศึกษารูปแบบจาก [react-bootstrap](https://react-bootstrap.github.io/components/table/) 
