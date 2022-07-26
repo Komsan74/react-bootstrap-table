@@ -6,7 +6,7 @@
 - header = อาร์เรย์ชื่อคอลัมน์ส่วนหัวตาราง
 - data = อาร์เรย์ข้อมูลที่นำมาแสดงในตาราง
 ```jsx
-    <Table data={data} header={["column1", "column2", "...columN"]}>
+    <Table data={data} header={["column1", "column2", "...columN"]} />
 ```
 
 # App.js
