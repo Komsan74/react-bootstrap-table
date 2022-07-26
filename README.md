@@ -12,7 +12,7 @@
     <Table data={data} header={["column1", "column2", "...columN"]} />
 ```
 
-# App.js
+# [App.js](https://github.com/Komsan74/react-bootstrap-table/blob/main/src/App.js)
 - กำหนด {data} ด้วยการดึงข้อมูลจำลองมาจาก https://fakestoreapi.com
 
 Get all products
