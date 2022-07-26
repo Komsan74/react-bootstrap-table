@@ -21,3 +21,5 @@ Get all products
                 .then(res=>res.json())
                 .then(json=>console.log(json))
 ```
+
+## [See in CodeSandbox](https://codesandbox.io/s/github/Komsan74/react-bootstrap-table)
