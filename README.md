@@ -22,4 +22,4 @@ Get all products
                 .then(json=>console.log(json))
 ```
 
-## [See demo in codesandbox](https://codesandbox.io/s/github/Komsan74/react-bootstrap-table)
+## [See demo in codesandbox.io](https://codesandbox.io/s/github/Komsan74/react-bootstrap-table)
