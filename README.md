@@ -22,4 +22,6 @@ Get all products
                 .then(json=>console.log(json))
 ```
 
-## [See demo in codesandbox.io](https://codesandbox.io/s/github/Komsan74/react-bootstrap-table)
+## อ้างอิง
+- [React-Bootstrap](https://react-bootstrap.netlify.app/components/table/)
+- [See demo in codesandbox.io](https://codesandbox.io/s/github/Komsan74/react-bootstrap-table)
